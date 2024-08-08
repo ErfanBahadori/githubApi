@@ -15,5 +15,35 @@
       "name": "Contact",
       "link": "./Contact.html"
     }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "title",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro excepturi numquam omnis fuga harum odio!",
+      "image": "./image/img-1.jpg",
+      "alt": "image-1"
+    },
+    {
+      "id": 2,
+      "title": "title",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro excepturi numquam omnis fuga harum odio!",
+      "image": "./image/img-2.jpg",
+      "alt": "image-2"
+    },
+    {
+      "id": 3,
+      "title": "title",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro excepturi numquam omnis fuga harum odio!",
+      "image": "./image/img-3.jpg",
+      "alt": "image-3"
+    },
+    {
+      "id": 4,
+      "title": "title",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro excepturi numquam omnis fuga harum odio!",
+      "image": "./image/img-4.jpg",
+      "alt": "image-4"
+    }
   ]
 }
